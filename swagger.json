@@ -1,5 +1,6 @@
 {
   "swagger": "2.0",
+  "name":"Amit",
   "info": {
     "version": "1.0.0",
     "title": "Swagger Petstore",
