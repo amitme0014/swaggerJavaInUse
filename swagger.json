@@ -2,6 +2,7 @@
   "swagger": "2.0",
   "name":"Amit",
   "name1":"project",
+  "name2":"project2",
   "info": {
     "version": "1.0.0",
     "title": "Swagger Petstore",
